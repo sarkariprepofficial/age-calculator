@@ -2,166 +2,22 @@
 <html lang="hi">
 <head>
 <meta charset="UTF-8">
-<meta name="google" content="notranslate" />
 <meta http-equiv="Cache-control" content="no-cache" />
-<meta itemprop="inLanguage" content="Hindi" />
 <meta http-equiv="content-language" content="hindi" />
 <meta name="theme-color" content="#FFFFFF">
 <meta name="robots" content="NOODP, NOYDIR" />
-<meta name="rating" content="General">
-<meta name="distribution" content="global" />
-<meta property="category" content="Tools" />
 <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-<meta name="Googlebot-news" content="index,follow" />
 <meta name="copyright" content="sarkariprep.in">
 <meta name="viewport" content="width=device-width,initial-scale=1.0" />
 <meta content='IE=9; IE=8; IE=7; IE=EDGE; chrome=1' http-equiv='X-UA-Compatible' />
 <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<link rel="preconnect" href="https://sarkariprep.in" />
-<link rel="preload" as="script" href="https://www.google-analytics.com/analytics.js" />
-<link rel="preload" as="style" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
-<link rel='dns-prefetch' href='https://fonts.gstatic.com' />
 <!-- Sarkariprep Seo Start -->
 <title>Age Calculator: Free Online Age Calculator, Birthday Calculator</title>
-<meta name="description" content="Age Calculator 2022 Free Online Age Calculator And Birthday Calculator Hindi Best Age Calculator In India" />
-<meta name="keywords" content="Age Calculator 2022, Online Age Calculator, Free Age Calculator, Check Age Calculator Online, Best Age Calculator, Birthday Calculator, Age Calculator In Hindi, India Age Calculator, Age Calculator Google, Free Online Age Calculator, Date Of Birth Calculator, Age Calculator Guru, आयु गणना, उम्र कैलकुलेटर, Best Age Calculator In India, Age Calculator Google" />
-<meta name="news_keywords" content="Age Calculator 2022, Online Age Calculator, Free Age Calculator, Check Age Calculator Online, Best Age Calculator, Birthday Calculator, Age Calculator In Hindi, India Age Calculator, Age Calculator Google, Free Online Age Calculator, Date Of Birth Calculator, Age Calculator Guru, आयु गणना, उम्र कैलकुलेटर, Best Age Calculator In India, Age Calculator Google" />
-<meta property="og:title" content="Age Calculator: Free Online Age Calculator, Birthday Calculator" />
-<meta property="og:description" content="Age Calculator 2022 Free Online Age Calculator And Birthday Calculator Hindi Best Age Calculator In India" />
-<link rel="image_src" href="https://sarkariprep.in/images/age-calculator.png" alt="Age Calculator" />
-<meta property="og:image" content="https://sarkariprep.in/images/age-calculator.png" />
-<meta property="og:image:width" content="512" />
-<meta property="og:image:height" content="512" />
-<meta property="og:url" content="https://sarkariprep.in/age-calculator/" />
-<meta property="og:locale" content="hi_IN" />
-<meta property="og:type" content="website" />
-<meta property="article:section" content="Age Calculator" />
-<meta property="article:tag" content="Age Calculator 2022" />
-<meta property="article:tag" content="Online Age Calculator" />
-<meta property="article:tag" content="Best Age Calculator" />
-<meta property="article:tag" content="Free Age Calculator" />
-<meta property="article:tag" content="Best Age Calculator In India" />
-<meta property="article:tag" content="Age Calculator Google" />
-<meta property="article:tag" content="Age Calculator Guru" />
-<meta property="article:tag" content="Date Of Birth Calculator" />
-<meta property="og:site_name" content="sarkariprep" />
-<meta name="author" content="sarkariprep.in" />
-<meta property="og:see_also" content="https://sarkariprep.in/">
-<meta name="orginal-source" content="https://sarkariprep.in/age-calculator/">
-<meta name="twitter:title" content="Age Calculator: Free Online Age Calculator, Birthday Calculator" />
-<meta name="twitter:description" content="Age Calculator 2022 Free Online Age Calculator And Birthday Calculator Hindi Best Age Calculator In India" />
-<meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:site" content="@sarkariprep" />
-<meta name="twitter:creator" content="@sarkariprep" />
-<meta name="twitter:image" content="https://sarkariprep.in/images/age-calculator.png" />
-<meta name="twitter:image:alt" content="Age Calculator" />
-<meta name="twitter:url" content="https://sarkariprep.in/age-calculator" />
 <link rel="canonical" href="https://sarkariprep.in/age-calculator/" />
 <link rel="icon" href="https://sarkariprep.in/images/sarkariprep-fevicon.png" />
 <link rel="apple-touch-icon" href="https://sarkariprep.in/images/sarkariprep-fevicon.png">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-<!-- Sarkariprep Schema Start -->
-<script type="application/ld+json">
-{
-  "@context": "http://schema.org",
-  "@type": "WebSite",
-  "url": "https://sarkariprep.in/",
-  "name": "Sarkariprep.in: Sarkari Job, Sarkari Exam Preparation India",
-  "description": "Sarkariprep is a sarkari job portal india sarkari prep provides sarkari result, government job, sarkari exam preparation for freshers.",
-  "publisher":{
-    "@type": "Thing",
-    "name": "sarkariprep.in"
-  }
-}
-</script><script type="application/ld+json">
-{
-"@context":"http://schema.org",
-"@type":"WebPage",
-"name":"Age Calculator: Free Online Age Calculator, Birthday Calculator",
-"description":"Age Calculator 2022 Free Online Age Calculator And Birthday Calculator Hindi Best Age Calculator In India",
-"keywords":"Age Calculator 2022, Online Age Calculator, Free Age Calculator, Check Age Calculator Online, Best Age Calculator, Birthday Calculator, Age Calculator In Hindi, India Age Calculator, Age Calculator Google, Free Online Age Calculator, Date Of Birth Calculator, Age Calculator Guru, आयु गणना, उम्र कैलकुलेटर, Best Age Calculator In India, Age Calculator Google",
-"url":"https://sarkariprep.in/age-calculator/"
-}
-</script><script type="application/ld+json">
-{
-"@context":"https://schema.org",
-"@type":"Organization",
-"name":"Sarkariprep Education Group",
-"url":"https://sarkariprep.in/",
-"logo":{
-"@type":"ImageObject",
-"url":"https://sarkariprep.in/images/sarkariprep.png",
-"width":300,
-"height":50
-},
-"address":{
-"@type":"PostalAddress",
-"streetAddress":"H-01, Near Government School Pasid, Sarangarh Road",
-"addressLocality":"Chhattisgarh",
-"addressRegion":"India",
-"postalCode":"496450"
-},
-"contactPoint":{
-"@type":"ContactPoint",
-"telephone":"+91 – 93 – 01532958",
-"contactType":"Customer Service",
-"areaServed":"IN",
-"availableLanguage":"Hindi",
-"hoursAvailable":{
-"opens":"09:00",
-"closes":"18:00"
-}
-},
-"sameAs":[
-"https://www.facebook.com/sarkariprep.in/",
-"https://twitter.com/sarkariprep",
-"https://www.linkedin.com/in/sarkariprep/",
-"https://www.instagram.com/sarkariprep/",
-"https://telegram.me/s/sarkariprep",
-"https://www.youtube.com/c/sarkariprep"
-]
-}
-</script><script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "FAQPage",
-  "mainEntity": [{
-    "@type": "Question",
-    "url": "https://sarkariprep.in/age-calculator/#faq-question-01",
-    "name": "प्रश्न 1 : आयु सीमा कैलकुलेटर क्या है?",
-    "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "उत्तर: Online Age Calculator का इस्तेमाल कर वर्तमान आयु एवं भविष्य की आयु की गणना करने के लिए उपयोग किया जाता है।"
-    }
-  },{
-    "@type": "Question",
-    "url": "https://sarkariprep.in/age-calculator/#faq-question-02",
-    "name": "प्रश्न 2 : उम्र की गणना कैसे करें?",
-    "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "उत्तर: Age Calculator उपयोग करने के लिए आपको केवल वही इनपुट देना होगा जो आपकी जन्म तिथि है। उसके बाद आपकी आयु सीमा की गणना हो जाएगा।"
-    }
-  },{
-    "@type": "Question",
-    "url": "https://sarkariprep.in/age-calculator/#faq-question-03",
-    "name": "प्रश्न 3 : सबसे अच्छा आयु कैलकुलेटर क्या है?",
-    "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "उत्तर: Best Age Calculator In India वर्ष, महीने, सप्ताह, दिन, घंटे, मिनट और सेकंड में जन्म की तारीख के आधार पर वर्तमान आयु भविष्य की आयु की गणना करता है। दो समयावधियों के बीच अपनी सटीक आयु जानने के लिए Sarkariprep Online Age Calculator का उपयोग करना बेहतर, आसान और तेज़ समाधान है।"
-    }
-  },{
-    "@type": "Question",
-    "url": "https://sarkariprep.in/age-calculator/#faq-question-04",
-    "name": "प्रश्न 4 : आयु सीमा कैलकुलेटर का क्या उपयोग है?",
-    "acceptedAnswer": {
-      "@type": "Answer",
-      "text": "उत्तर: Birthday Calculator का उपयोग निजी जानकारी एवं शासकीय कार्य के लिए उपयोग किया जाता है।"
-    }
-  }]
-}
-</script>
-<!-- Sarkariprep Schema End -->
 <!-- Sarkariprep Seo End -->
 </head>
 <body>
@@ -776,14 +632,6 @@ padding:10px;
     			<span id="months"></span>&nbsp;&nbsp;&nbsp;
     			<span id="days"></span>   </p>
     			<hr class="hline">
-    			<!-- Share Start -->
-    			<center>
-                <a href="https://www.facebook.com/sarkariprep.in/" class="fa fa-facebook"></a> |
-                <a href="https://twitter.com/intent/tweet?url=https://sarkariprep.in/age-calculator/" class="fa fa-twitter"></a> |
-                <a href="https://api.whatsapp.com/send?text=*Age Calculator - फ्री ऑनलाइन आयु सीमा कैलकुलेटर* 👇 https://sarkariprep.in/age-calculator/ *Join Telegram* 👇https://t.me/sarkariprep *Mobile App* 👇https://bit.ly/sarkariprepapp" class="fa fa-whatsapp"></a> |
-                <a href="https://telegram.me/share/url?url=*Age Calculator - फ्री ऑनलाइन आयु सीमा कैलकुलेटर* 👇 https://sarkariprep.in/age-calculator/ *Join Telegram* 👇https://t.me/sarkariprep *Mobile App* 👇https://bit.ly/sarkariprepapp" class="fa fa-telegram"></a> |
-                <a href="" class="fa fa-print" onclick="window.print()"></a>
-                </center>
     		</form>
     		<!-- Age Form End -->
     	</div>
@@ -830,12 +678,6 @@ padding:10px;
 	    <p>© 2022. Sarkariprep Education Group | <a href="https://sarkariprep.in/about/" target="_blank" rel="noopener">About</a> | <a href="https://sarkariprep.in/contact/" target="_blank" rel="noopener">Contact</a> | <a href="https://sarkariprep.in/privacy-policy/" target="_blank" rel="noopener">Privacy Policy</a> | <a href="https://sarkariprep.in/disclaimer/" target="_blank" rel="noopener">Disclaimer</a> | <a href="https://sarkariprep.in/sitemap.xml" target="_blank" rel="noopener">Sitemap</a></p>
 	 </div>
 </footer>
-<!--Footer End-->
-<div class="fixfooter">
-<div>
-<a href="https://telegram.me/sarkariprep" class="fixtxt"> <i class="fa fa-hand-o-right" style="font-size:20px;color:#000; margin-left:-10px" id="joinicn"></i>ज्वाइन टेलीग्राम ग्रुप </a>
-</div>
-</div>
 <script>
 var form = document.getElementById("form"),
 	bdate = document.getElementById("date"),
