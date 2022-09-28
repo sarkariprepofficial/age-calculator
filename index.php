@@ -14,9 +14,9 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <!-- Sarkariprep Seo Start -->
 <title>Age Calculator: Free Online Age Calculator, Birthday Calculator</title>
-<link rel="canonical" href="https://sarkariprep.in/age-calculator/" />
-<link rel="icon" href="https://sarkariprep.in/images/sarkariprep-fevicon.png" />
-<link rel="apple-touch-icon" href="https://sarkariprep.in/images/sarkariprep-fevicon.png">
+<link rel="canonical" href="#" />
+<link rel="icon" href="#" />
+<link rel="apple-touch-icon" href="#">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <!-- Sarkariprep Seo End -->
 </head>
@@ -494,8 +494,8 @@ padding:10px;
             <div class="menuicon">
                 <p style="font-size:30px;cursor:pointer; color:#50B167; align:left;" onclick="openNav()">&#9776;</p></div>
                 
-                <a href="https://sarkariprep.in/"><img src="https://sarkariprep.in/images/sarkariprep.png" width="220px" height="35px" alt="sarkariprep"></a>
-                <a href="https://sarkariprep.in/en/" class="lngu">En</a>
+                <a href="#"><img src="#" width="220px" height="35px" alt="demo"></a>
+                <a href="#" class="lngu">En</a>
             </div>
         </div>
     </nav>
@@ -508,78 +508,78 @@ padding:10px;
                         <input type="checkbox" id="top-jobs">
                         <label for="top-jobs"><span class="drop-down-icon">टॉप जॉब्स</span></label>
                         <ul class="drop-down">
-                            <li><a href="https://sarkariprep.in/sarkarinaukri/">सरकारी नौकरी</a></li>
-                            <li><a href="https://sarkariprep.in/govt-jobs/railway-jobs/">रेलवे जॉब</a></li>
-                            <li><a href="https://sarkariprep.in/govt-jobs/bank-jobs/">बैंक जॉब</a></li>
-                            <li><a href="https://sarkariprep.in/govt-jobs/police-job-notification/">पुलिस जॉब</a></li>
-                            <li><a href="https://sarkariprep.in/govt-jobs/defence-job/">डिफेंस जॉब</a></li>
-                            <li><a href="https://sarkariprep.in/govt-jobs/teaching-jobs/">टीचिंग जॉब</a></li>
-                            <li><a href="https://sarkariprep.in/govt-jobs/ssc-jobs/">एसएससी</a></li>
-                            <li><a href="https://sarkariprep.in/psc-jobs/">पीएससी</a></li>
-                            <li><a href="https://sarkariprep.in/upsc-jobs/">यूपीएससी</a></li>
-                            <li><a href="https://sarkariprep.in/jobs-by-role/">पदवार जॉब</a></li>
-                            <li><a href="https://sarkariprep.in/govt-jobs-by-department/">विभागवार</a></li>
-                            <li><a href="https://sarkariprep.in/govt-jobs/upcoming-govt-jobs/">अपकमिंग जॉब</a></li>
+                            <li><a href="#">सरकारी नौकरी</a></li>
+                            <li><a href="#">रेलवे जॉब</a></li>
+                            <li><a href="#">बैंक जॉब</a></li>
+                            <li><a href="#">पुलिस जॉब</a></li>
+                            <li><a href="#">डिफेंस जॉब</a></li>
+                            <li><a href="#">टीचिंग जॉब</a></li>
+                            <li><a href="#">एसएससी</a></li>
+                            <li><a href="#">पीएससी</a></li>
+                            <li><a href="#">यूपीएससी</a></li>
+                            <li><a href="#">पदवार जॉब</a></li>
+                            <li><a href="#">विभागवार</a></li>
+                            <li><a href="#">अपकमिंग जॉब</a></li>
                         </ul>
                     </li>
                     <li>
                         <input type="checkbox" id="exam">
                         <label for="exam"><span class="drop-down-icon">एग्जाम</span></label>
                         <ul class="drop-down">
-                            <li><a href="https://sarkariprep.in/govt-exams/">प्रतियोगी परीक्षा</a></li>
-                            <li><a href="https://sarkariprep.in/university/">यूनिवर्सिटी</a></li>
-                            <li><a href="https://sarkariprep.in/board-exam/">बोर्ड परीक्षा</a></li>
+                            <li><a href="#">प्रतियोगी परीक्षा</a></li>
+                            <li><a href="#">यूनिवर्सिटी</a></li>
+                            <li><a href="#">बोर्ड परीक्षा</a></li>
                         </ul>
                     </li>
-                    <li><a href="https://sarkariprep.in/state-wise-government-jobs/">राज्य</a></li>
+                    <li><a href="#">राज्य</a></li>
                     <li>
                         <input type="checkbox" id="education">
                         <label for="education"><span class="drop-down-icon">योग्यता</span></label>
                         <ul class="drop-down">
-                            <li><a href="https://sarkariprep.in/5th-pass-sarkari-naukri/">पांचवी पास</a></li>
-                            <li><a href="https://sarkariprep.in/8th-pass-sarkari-naukri/">आठवीं पास</a></li>
-                            <li><a href="https://sarkariprep.in/10th-pass-sarkari-naukri/">दसवीं पास</a></li>
-                            <li><a href="https://sarkariprep.in/12th-pass-sarkari-naukri/">बारहवीं पास</a></li>
-                            <li><a href="https://sarkariprep.in/iti-pass-sarkari-naukri/">आईटीआई</a></li>
-                            <li><a href="https://sarkariprep.in/diploma-sarkari-naukri/">डिप्लोमा</a></li>
-                            <li><a href="https://sarkariprep.in/graduate-jobs/">ग्रेजुएट पास</a></li>
+                            <li><a href="#">पांचवी पास</a></li>
+                            <li><a href="#">आठवीं पास</a></li>
+                            <li><a href="#">दसवीं पास</a></li>
+                            <li><a href="#">बारहवीं पास</a></li>
+                            <li><a href="#">आईटीआई</a></li>
+                            <li><a href="#">डिप्लोमा</a></li>
+                            <li><a href="#">ग्रेजुएट पास</a></li>
                         </ul>
                     </li>
-                    <li><a href="https://sarkariprep.in/employment-news/">रोजगार समाचार</a></li>
-                    <li><a href="https://sarkariprep.in/admit-card/">प्रवेश पत्र</a></li>
-                    <li><a href="https://sarkariprep.in/syllabus/">सिलेबस</a></li>
-                    <li><a href="https://sarkariprep.in/previous-year-papers/">प्रश्न पत्र</a></li>
+                    <li><a href="#">रोजगार समाचार</a></li>
+                    <li><a href="#">प्रवेश पत्र</a></li>
+                    <li><a href="#">सिलेबस</a></li>
+                    <li><a href="#">प्रश्न पत्र</a></li>
                     <li>
                         <input type="checkbox" id="result">
                         <label for="result"><span class="drop-down-icon">रिजल्ट</span></label>
                         <ul class="drop-down">
-                            <li><a href="https://sarkariprep.in/sarkariresult/">सरकारी रिजल्ट</a></li>
-                            <li><a href="https://sarkariprep.in/boardresult/">बोर्ड रिजल्ट</a></li>
+                            <li><a href="#">सरकारी रिजल्ट</a></li>
+                            <li><a href="#">बोर्ड रिजल्ट</a></li>
                         </ul>
                     </li>
                     <li>
                         <input type="checkbox" id="test-series">
                         <label for="test-series"><span class="drop-down-icon">टेस्ट सीरीज</span></label>
                         <ul class="drop-down">
-                            <li><a href="https://sarkariprep.in/online-test-series/">फ्री टेस्ट सीरीज</a></li>
-                            <li><a href="https://sarkariprep.in/online-test-series/gk/">सामान्य ज्ञान</a></li>
-                            <li><a href="https://sarkariprep.in/online-test-series/practice-set/">प्रैक्टिस सेट</a></li>
-                            <li><a href="https://sarkariprep.in/online-test-series/quiz-test/">क्वीज टेस्ट</a></li>
-                            <li><a href="https://sarkariprep.in/current-affairs/">करंट अफेयर्स</a></li>
+                            <li><a href="#">फ्री टेस्ट सीरीज</a></li>
+                            <li><a href="#">सामान्य ज्ञान</a></li>
+                            <li><a href="#">प्रैक्टिस सेट</a></li>
+                            <li><a href="#">क्वीज टेस्ट</a></li>
+                            <li><a href="#">करंट अफेयर्स</a></li>
                         </ul>
                     </li>
-                    <li><a href="https://sarkariprep.in/sarkariyojana/">योजना</a></li>
-                    <li><a href="https://sarkariprep.in/news/">ब्रेकिंग न्यूज़</a></li>
-                    <li><a href="https://sarkariprep.in/full-form/">फुल फॉर्म</a></li>
-                    <li><a href="https://sarkariprep.in/e-services/">ई-सर्विस</a></li>
+                    <li><a href="#">योजना</a></li>
+                    <li><a href="#">ब्रेकिंग न्यूज़</a></li>
+                    <li><a href="#">फुल फॉर्म</a></li>
+                    <li><a href="#">ई-सर्विस</a></li>
                     <li>
                         <input type="checkbox" id="me-details">
                         <label for="me-details"><span class="drop-down-icon">अन्य</span></label>
                         <ul class="drop-down">
-                            <li><a href="https://sarkariprep.in/about/">हमारे बारे में</a></li>
-                            <li><a href="https://sarkariprep.in/contact/">संपर्क</a></li>
-                            <li><a href="https://sarkariprep.in/privacy-policy/">प्राइवेसी पॉलिसी</a></li>
-                            <li><a href="https://sarkariprep.in/disclaimer/">डिस्क्लेमर</a></li>
+                            <li><a href="#">हमारे बारे में</a></li>
+                            <li><a href="#">संपर्क</a></li>
+                            <li><a href="#">प्राइवेसी पॉलिसी</a></li>
+                            <li><a href="#">डिस्क्लेमर</a></li>
                         </ul>
                     </li>
                 </ul>
@@ -587,20 +587,20 @@ padding:10px;
         </div>
     </nav>
     <div class="scrollmenu" id="myHeader">
-        <center> <a href="https://sarkariprep.in/">टॉप जॉब्स</a>
-        <a href="https://sarkariprep.in/govt-jobs/">गवर्नमेंट जॉब</a>
-        <a href="https://sarkariprep.in/state-wise-government-jobs/">राज्य</a>
-        <a href="https://sarkariprep.in/private-jobs/">प्राइवेट जॉब</a>
-        <a href="https://sarkariprep.in/govt-jobs/police-job-notification/">पुलिस जॉब्स</a>
-        <a href="https://sarkariprep.in/govt-jobs/defence-job/">डिफेंस जॉब</a>
-        <a href="https://sarkariprep.in/govt-jobs/railway-jobs/">रेलवे जॉब्स</a>
-        <a href="https://sarkariprep.in/govt-jobs/ssc-jobs/">एसएससी</a>
-        <a href="https://sarkariprep.in/govt-jobs/bank-jobs/">बैंक जॉब्स</a>
-        <a href="https://sarkariprep.in/govt-jobs/teaching-jobs/">टीचिंग जॉब्स</a>
-        <a href="https://sarkariprep.in/sarkariyojana/">सरकारी योजना</a>
-        <a href="https://sarkariprep.in/syllabus/">सिलेबस</a>
-        <a href="https://sarkariprep.in/admit-card/">प्रवेश पत्र</a>
-        <a href="https://sarkariprep.in/sarkariresult/">रिजल्ट</a></center>
+        <center> <a href="#">टॉप जॉब्स</a>
+        <a href="#">गवर्नमेंट जॉब</a>
+        <a href="#">राज्य</a>
+        <a href="#">प्राइवेट जॉब</a>
+        <a href="#">पुलिस जॉब्स</a>
+        <a href="#">डिफेंस जॉब</a>
+        <a href="#">रेलवे जॉब्स</a>
+        <a href="#">एसएससी</a>
+        <a href="#">बैंक जॉब्स</a>
+        <a href="#">टीचिंग जॉब्स</a>
+        <a href="#">सरकारी योजना</a>
+        <a href="#">सिलेबस</a>
+        <a href="#">प्रवेश पत्र</a>
+        <a href="#">रिजल्ट</a></center>
     </div>
     </header>
     <div class="main-data">
@@ -675,7 +675,7 @@ padding:10px;
 <!--Footer Start-->
 <footer class="footer">
     <div class="footer-center">
-	    <p>© 2022. Sarkariprep Education Group | <a href="https://sarkariprep.in/about/" target="_blank" rel="noopener">About</a> | <a href="https://sarkariprep.in/contact/" target="_blank" rel="noopener">Contact</a> | <a href="https://sarkariprep.in/privacy-policy/" target="_blank" rel="noopener">Privacy Policy</a> | <a href="https://sarkariprep.in/disclaimer/" target="_blank" rel="noopener">Disclaimer</a> | <a href="https://sarkariprep.in/sitemap.xml" target="_blank" rel="noopener">Sitemap</a></p>
+	    <p>© 2022. Sarkariprep Education Group | <a href="#" target="_blank" rel="noopener">About</a> | <a href="#" target="_blank" rel="noopener">Contact</a> | <a href="#" target="_blank" rel="noopener">Privacy Policy</a> | <a href="#" target="_blank" rel="noopener">Disclaimer</a> | <a href="#" target="_blank" rel="noopener">Sitemap</a></p>
 	 </div>
 </footer>
 <script>
