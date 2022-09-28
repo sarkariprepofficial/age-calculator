@@ -7,7 +7,6 @@
 <meta name="theme-color" content="#FFFFFF">
 <meta name="robots" content="NOODP, NOYDIR" />
 <meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
-<meta name="copyright" content="sarkariprep.in">
 <meta name="viewport" content="width=device-width,initial-scale=1.0" />
 <meta content='IE=9; IE=8; IE=7; IE=EDGE; chrome=1' http-equiv='X-UA-Compatible' />
 <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
@@ -506,80 +505,80 @@ padding:10px;
                 <ul class="srp-menu">
                     <li>
                         <input type="checkbox" id="top-jobs">
-                        <label for="top-jobs"><span class="drop-down-icon">टॉप जॉब्स</span></label>
+                        <label for="top-jobs"><span class="drop-down-icon">Demo</span></label>
                         <ul class="drop-down">
-                            <li><a href="#">सरकारी नौकरी</a></li>
-                            <li><a href="#">रेलवे जॉब</a></li>
-                            <li><a href="#">बैंक जॉब</a></li>
-                            <li><a href="#">पुलिस जॉब</a></li>
-                            <li><a href="#">डिफेंस जॉब</a></li>
-                            <li><a href="#">टीचिंग जॉब</a></li>
-                            <li><a href="#">एसएससी</a></li>
-                            <li><a href="#">पीएससी</a></li>
-                            <li><a href="#">यूपीएससी</a></li>
-                            <li><a href="#">पदवार जॉब</a></li>
-                            <li><a href="#">विभागवार</a></li>
-                            <li><a href="#">अपकमिंग जॉब</a></li>
+                            <li><a href="#">Demo</a></li>
+                            <li><a href="#">Demo</a></li>
+                            <li><a href="#">Demo</a></li>
+                            <li><a href="#">Demo</a></li>
+                            <li><a href="#">Demo</a></li>
+                            <li><a href="#">Demo</a></li>
+                            <li><a href="#">Demo</a></li>
+                            <li><a href="#">Demo</a></li>
+                            <li><a href="#">Demo</a></li>
+                            <li><a href="#">Demo</a></li>
+                            <li><a href="#">Demo</a></li>
+                            <li><a href="#">Demo</a></li>
                         </ul>
                     </li>
                     <li>
                         <input type="checkbox" id="exam">
-                        <label for="exam"><span class="drop-down-icon">एग्जाम</span></label>
+                        <label for="exam"><span class="drop-down-icon">Demo</span></label>
                         <ul class="drop-down">
-                            <li><a href="#">प्रतियोगी परीक्षा</a></li>
-                            <li><a href="#">यूनिवर्सिटी</a></li>
-                            <li><a href="#">बोर्ड परीक्षा</a></li>
+                            <li><a href="#">Demo</a></li>
+                            <li><a href="#">Demo</a></li>
+                            <li><a href="#">Demo<a></li>
                         </ul>
                     </li>
-                    <li><a href="#">राज्य</a></li>
+                    <li><a href="#">Demo</a></li>
                     <li>
                         <input type="checkbox" id="education">
-                        <label for="education"><span class="drop-down-icon">योग्यता</span></label>
+                        <label for="education"><span class="drop-down-icon">Demo</span></label>
                         <ul class="drop-down">
-                            <li><a href="#">पांचवी पास</a></li>
-                            <li><a href="#">आठवीं पास</a></li>
-                            <li><a href="#">दसवीं पास</a></li>
-                            <li><a href="#">बारहवीं पास</a></li>
-                            <li><a href="#">आईटीआई</a></li>
-                            <li><a href="#">डिप्लोमा</a></li>
-                            <li><a href="#">ग्रेजुएट पास</a></li>
+                            <li><a href="#">Demo</a></li>
+                            <li><a href="#">Demo</a></li>
+                            <li><a href="#">Demo</a></li>
+                            <li><a href="#">Demo</a></li>
+                            <li><a href="#">Demo</a></li>
+                            <li><a href="#">Demo</a></li>
+                            <li><a href="#">Demo</a></li>
                         </ul>
                     </li>
-                    <li><a href="#">रोजगार समाचार</a></li>
-                    <li><a href="#">प्रवेश पत्र</a></li>
-                    <li><a href="#">सिलेबस</a></li>
-                    <li><a href="#">प्रश्न पत्र</a></li>
+                    <li><a href="#">Demo</a></li>
+                    <li><a href="#">Demo</a></li>
+                    <li><a href="#">Demo</a></li>
+                    <li><a href="#">Demo</a></li>
                     <li>
                         <input type="checkbox" id="result">
-                        <label for="result"><span class="drop-down-icon">रिजल्ट</span></label>
+                        <label for="result"><span class="drop-down-icon">Demo</span></label>
                         <ul class="drop-down">
-                            <li><a href="#">सरकारी रिजल्ट</a></li>
-                            <li><a href="#">बोर्ड रिजल्ट</a></li>
+                            <li><a href="#">Demo</a></li>
+                            <li><a href="#">Demo</a></li>
                         </ul>
                     </li>
                     <li>
                         <input type="checkbox" id="test-series">
-                        <label for="test-series"><span class="drop-down-icon">टेस्ट सीरीज</span></label>
+                        <label for="test-series"><span class="drop-down-icon">Demo</span></label>
                         <ul class="drop-down">
-                            <li><a href="#">फ्री टेस्ट सीरीज</a></li>
-                            <li><a href="#">सामान्य ज्ञान</a></li>
-                            <li><a href="#">प्रैक्टिस सेट</a></li>
-                            <li><a href="#">क्वीज टेस्ट</a></li>
-                            <li><a href="#">करंट अफेयर्स</a></li>
+                            <li><a href="#">Demo</a></li>
+                            <li><a href="#">Demo</a></li>
+                            <li><a href="#">Demo</a></li>
+                            <li><a href="#">Demo</a></li>
+                            <li><a href="#">Demo</a></li>
                         </ul>
                     </li>
-                    <li><a href="#">योजना</a></li>
-                    <li><a href="#">ब्रेकिंग न्यूज़</a></li>
-                    <li><a href="#">फुल फॉर्म</a></li>
-                    <li><a href="#">ई-सर्विस</a></li>
+                    <li><a href="#">Demo</a></li>
+                    <li><a href="#">Demo</a></li>
+                    <li><a href="#">Demo</a></li>
+                    <li><a href="#">Demo</a></li>
                     <li>
                         <input type="checkbox" id="me-details">
-                        <label for="me-details"><span class="drop-down-icon">अन्य</span></label>
+                        <label for="me-details"><span class="drop-down-icon">Demo</span></label>
                         <ul class="drop-down">
-                            <li><a href="#">हमारे बारे में</a></li>
-                            <li><a href="#">संपर्क</a></li>
-                            <li><a href="#">प्राइवेसी पॉलिसी</a></li>
-                            <li><a href="#">डिस्क्लेमर</a></li>
+                            <li><a href="#">Demo</a></li>
+                            <li><a href="#">Demo</a></li>
+                            <li><a href="#">Demo</a></li>
+                            <li><a href="#">Demo</a></li>
                         </ul>
                     </li>
                 </ul>
@@ -587,48 +586,48 @@ padding:10px;
         </div>
     </nav>
     <div class="scrollmenu" id="myHeader">
-        <center> <a href="#">टॉप जॉब्स</a>
-        <a href="#">गवर्नमेंट जॉब</a>
-        <a href="#">राज्य</a>
-        <a href="#">प्राइवेट जॉब</a>
-        <a href="#">पुलिस जॉब्स</a>
-        <a href="#">डिफेंस जॉब</a>
-        <a href="#">रेलवे जॉब्स</a>
-        <a href="#">एसएससी</a>
-        <a href="#">बैंक जॉब्स</a>
-        <a href="#">टीचिंग जॉब्स</a>
-        <a href="#">सरकारी योजना</a>
-        <a href="#">सिलेबस</a>
-        <a href="#">प्रवेश पत्र</a>
-        <a href="#">रिजल्ट</a></center>
+        <center> <a href="#">Demo</a>
+        <a href="#">Demo</a>
+        <a href="#">Demo</a>
+        <a href="#">Demo</a>
+        <a href="#">Demo</a>
+        <a href="#">Demo</a>
+        <a href="#">Demo</a>
+        <a href="#">Demo</a>
+        <a href="#">Demo</a>
+        <a href="#">Demo</a>
+        <a href="#">Demo</a>
+        <a href="#">Demo</a>
+        <a href="#">Demo</a>
+        <a href="#">Demo</a></center>
     </div>
     </header>
     <div class="main-data">
     <div id="container">
         <!-- Age Form Start -->
         <form id="form" autocomplete="off">
-    			<h2>आयु सीमा कैलकुलेटर</h2>
+    			<h2>Age</h2>
     			<label for="date">
-    				<h2>जन्म तिथि </h2>
-    				<input type="text" maxlength="2" size="2" id="date" placeholder="दिनाँक"  required/>
-    				<input type="text" maxlength="2" size="2" id="month" placeholder="माह " autocomplete="on" class="age1" required/>
-    				<input type="text" maxlength="4" size="4" id="year" placeholder="वर्ष " required/>
+    				<h2>Date Of Birth</h2>
+    				<input type="text" maxlength="2" size="2" id="date" placeholder="Date"  required/>
+    				<input type="text" maxlength="2" size="2" id="month" placeholder="Month" autocomplete="on" class="age1" required/>
+    				<input type="text" maxlength="4" size="4" id="year" placeholder="Year" required/>
     			</label>
     			<hr class="hline">
     			<label for="date2">
-    				<h2>आज की  तारीख   </h2>
-    				<input type="text" maxlength="2" size="2" id="date2" placeholder="दिनाँक"/>
-    				<input type="text" maxlength="2" size="2" id="month2" placeholder="माह" class="age1"/>
-    				<input type="text" maxlength="4" size="4" id="year2" placeholder="वर्ष"/>
+    				<h2></h2>
+    				<input type="text" maxlength="2" size="2" id="date2" placeholder="Date"/>
+    				<input type="text" maxlength="2" size="2" id="month2" placeholder="Month" class="age1"/>
+    				<input type="text" maxlength="4" size="4" id="year2" placeholder="Year"/>
     			</label>
     			<hr class="hline">
     			<div class="btm_btns">
                     <div class="btmbtn_sub sub1">
-                            <button id="calbtn" class="btm_pbtn">आयु देखे </button>
+                            <button id="calbtn" class="btm_pbtn">View Result</button>
                     </div>
                 </div>
     			<hr class="hline">
-    			<p class="ageshow"><b>आपकी आयु - </b><span id="age"></span>&nbsp;&nbsp;&nbsp;
+    			<p class="ageshow"><b>Your Age- </b><span id="age"></span>&nbsp;&nbsp;&nbsp;
     			<span id="months"></span>&nbsp;&nbsp;&nbsp;
     			<span id="days"></span>   </p>
     			<hr class="hline">
@@ -637,38 +636,14 @@ padding:10px;
     	</div>
         <div class="content_area">
         <div class="container">
-           <p><b>Age Calculator 2022</b> आयु सीमा कैलकुलेटर एक <b>Online Tools</b> है। जिसके जरिए आप अपनी जन्मतिथि से लेकर मौजूदा तारीख तक उम्र पता कर सकते हैं। दो तारीख को के बीच का अंतर जानने के लिए <b>Age Calculator Google</b> का इस्तेमाल किया जा सकता है। इसके जरिए जो <a href="https://sarkariprep.in/">Result</a> आते हैं वो अलग-अलग टाइम के तहत साल, महीने और दिनों के रूप में सामने आते हैं। <b>Age Calculator</b> के रूप में जो भी नतीजे आते हैं। उन पर किसी व्यक्ति के टाइम जोन का असर नहीं पड़ता है। क्योंकि नतीजा समय के बीच का अंतर बताता है। <b>Online Age Calculator</b> को इस तरह बनाया गया है कि सबसे General Age System के आधार पर इसकी रचना की गई है। जिससे कि ये सभी लोगों के लिए काम आ सके। आप अपना आयु सीमा गणना करने के लिए <b>Free Age Calculator</b> का उपयोग कर सकते हैं।</p>
+           <p>Demo</p>
 
             <h2 class="heading">Best Age Calculator In India</h2>
 
-            <p><b>Best Age Calculator 2022</b> ऑनलाइन आयु कैलकुलेटर वर्ष, महीने, सप्ताह, दिन, घंटे, मिनट और सेकंड में जन्म की तारीख के आधार पर वर्तमान आयु भविष्य की आयु की गणना करने के लिए उपयोग किया जा सकता है। <b>India Age Calculator</b> का उपयोग करने के लिए आपको केवल वही इनपुट देना होगा जो आपकी जन्म तिथि (DOB) है। साथ ही आप उम्र के अंतर <a href="https://en.wikipedia.org/wiki/Wikipedia:Age_calculation_templates">कैलकुलेटर</a> का उपयोग कर अपने प्रियजनों के बीच उम्र के अंतर की जांच कर सकते हैं। जन्म तिथि से <b>Best Online Age Calculator</b> की जाँच करें। इस लेख से <i>Birthday Calculator</i> का उपयोग आसानी से कर सकते हैं।</p>
-            
+            <p>Demo</p>
             <h2 class="heading">Age Calculator In Hindi</h2>
             
-            <p><b>Age Calculator In Hindi</b> आयु कैलकुलेटर जन्म तिथि से लेकर वर्तमान तिथि तक की गणना के लिए एक ऑनलाइन तरीका है। <b>आयु सीमा कैलकुलेटर</b> उपयोग दो वर्षों के बीच के समय के अंतर को मापने के लिए भी किया जा सकता है। <b>Best Age Calculator Hindi</b> इस्तेमाल कर आप अपना आयु सीमा की गणना सामान्य जानकारी एवं <b>Sarkari Job</b> के लिए उपयोग कर सकते हैं।</p>
-            <!--FAQ Start-->
-            <h2 class="heading">Faq Age Calculator 2022</h2>
-            <div id="ask-faq" class="ask-block">
-                <div class="ask-faq-list ">
-                    <div id="faq-question-01" class="faq-item">
-                        <h3 class="question ">प्रश्न 1 : आयु सीमा कैलकुलेटर क्या है?</h3>
-                        <div class="answer "><p><strong>उत्तर: </strong>Online Age Calculator का इस्तेमाल कर वर्तमान आयु एवं भविष्य की आयु की गणना करने के लिए उपयोग किया जाता है।</p></div>
-                    </div>
-                    <div id="faq-question-02" class="faq-item">
-                        <h3 class="question ">प्रश्न 2 : उम्र की गणना कैसे करें?</h3>
-                        <div class="answer "><p><strong>उत्तर: </strong>Age Calculator उपयोग करने के लिए आपको केवल वही इनपुट देना होगा जो आपकी जन्म तिथि है। उसके बाद आपकी आयु सीमा की गणना हो जाएगा।</p></div>
-                    </div>
-                    <div id="faq-question-03" class="faq-item">
-                        <h3 class="question ">प्रश्न 3 : सबसे अच्छा आयु कैलकुलेटर क्या है?</h3>
-                        <div class="answer"><p><strong>उत्तर: </strong>Best Age Calculator In India वर्ष, महीने, सप्ताह, दिन, घंटे, मिनट और सेकंड में जन्म की तारीख के आधार पर वर्तमान आयु भविष्य की आयु की गणना करता है। दो समयावधियों के बीच अपनी सटीक आयु जानने के लिए Sarkariprep Online Age Calculator का उपयोग करना बेहतर, आसान और तेज़ समाधान है।</p></div>
-                    </div>
-                    <div id="faq-question-04" class="faq-item">
-                        <h3 class="question ">प्रश्न 4 : आयु सीमा कैलकुलेटर का क्या उपयोग है?</h3>
-                        <div class="answer "><p><strong>उत्तर: </strong>Birthday Calculator का उपयोग निजी जानकारी एवं शासकीय कार्य के लिए उपयोग किया जाता है।</p></div>
-                    </div>
-                </div>
-            </div>
-            <!--FAQ End-->
+            <p>demo</p>
         </div>
     </div>
 </div>
@@ -706,20 +681,20 @@ form.addEventListener('submit', function(event) {
 		td = Number.parseFloat(date.value);
 
 	if (td < bd) {
-		days.innerHTML = (td - bd + 30) + ' दिन';
+		days.innerHTML = (td - bd + 30) + ' Day';
 		tm = tm - 1;
 	} else {
-		days.innerHTML = (td - bd) + ' दिन '
+		days.innerHTML = (td - bd) + ' Day '
 	}
 
 	if (tm < bm) {
-		months.innerHTML = (tm - bm + 12) + ' माह';
+		months.innerHTML = (tm - bm + 12) + ' Month';
 		ty = ty - 1;
 	} else {
-		months.innerHTML = (tm - bm) + ' माह '
+		months.innerHTML = (tm - bm) + ' Month '
 	}
 
-	age.innerHTML = " " + (ty - by) + ' वर्ष ';
+	age.innerHTML = " " + (ty - by) + ' Year ';
 
 });
 </script>
